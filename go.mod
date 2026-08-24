@@ -1,6 +1,6 @@
 module github.com/gospider007/linux
 
-go 1.26.0
+go 1.27.0
 
 require (
 	github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab
@@ -13,7 +13,7 @@ require (
 	github.com/andybalholm/brotli v1.2.2 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/golang/snappy v1.0.0 // indirect
-	github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8 // indirect
+	github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac // indirect
 	github.com/klauspost/compress v1.19.2 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/minio/minlz v1.2.0 // indirect
